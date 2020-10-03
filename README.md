@@ -11,7 +11,7 @@
 - :earth_americas: João Pessoa - Paraíba
 - :heart: Amo a área de qualidade de software
 - :two_hearts: Gosto muito da área de gestão
-- :star: Sempre estou em busca de aprender coisas novas
+- :star: Sempre estou em busca de coisas novas
 - :stuck_out_tongue_closed_eyes: Sou chato e muito curioso
 - :+1: E sempre estou a disposição para ajudar
 
