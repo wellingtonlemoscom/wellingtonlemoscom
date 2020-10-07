@@ -29,10 +29,10 @@
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonlemosqa&count_private=true&hide_border=true" />
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonlemosqa&count_private=true&hide_border=true&show_icons=true&custom_title=GitHub Status" />
           </td>
           <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonlemosqa&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonlemosqa&hide=html&layout=compact&count_private=true&hide_border=true&custom_title=Linguagens Utilizadas" />               </td>
       </tr>  
     </table>
 </center>
